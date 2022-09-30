@@ -12,3 +12,7 @@
 ## Schematic Diagram
 
 ![Screenshot](screenshot.png)
+
+## Tinkercad Link
+
+https://www.tinkercad.com/things/4qe0kCQGtrv
